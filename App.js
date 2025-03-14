@@ -18,7 +18,7 @@ import BackBtn from './Screen/Components/BackBtn';
 
 const Stack = createStackNavigator();
 
-// Stack Navigator for Login and Register and Logout Screen
+// Stack Navigator for Login and Register and Logout Screen0
 const Auth = () => {
   return (
     <Stack.Navigator>
